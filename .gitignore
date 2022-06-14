@@ -8,6 +8,8 @@ __pycache__
 myvenv/
 venv/
 
+/mysite/settings.py
+
 # Database
 db.sqlite3
 
@@ -31,4 +33,3 @@ $RECYCLE.BIN/
 .history/
 *.code-workspace
 
-settings.py
