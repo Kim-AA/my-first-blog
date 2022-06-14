@@ -8,7 +8,7 @@ __pycache__
 myvenv/
 venv/
 
-settings.py
+mysite/settings.py
 
 # Database
 db.sqlite3
